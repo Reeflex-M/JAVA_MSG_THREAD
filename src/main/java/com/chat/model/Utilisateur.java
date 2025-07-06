@@ -1,3 +1,10 @@
+package com.chat.model;
+
+/**
+ * Représente un utilisateur du chat
+ * Assez simple pour l'instant, mais on pourrait ajouter plein d'autres trucs
+ * comme le statut, l'avatar, etc.
+ */
 public class Utilisateur {
  private String nom;
  private String adresseIP;

@@ -1,0 +1,2 @@
+groupe2|Alice|aze|Alice|Alice|2025-07-06T13:55:42.1750392|true
+groupe1|Alice|ok|ismail,Alice|Alice|2025-07-06T13:52:29.7118685|true
